@@ -24,4 +24,9 @@ public class MainPageOfApplication
 	{
 		rechargePrepaidMobile.click();
 	}
+	
+	public void clickBillMobile()
+	{
+		rechargePrepaidMobile.click();
+	}
 }
