@@ -20,4 +20,8 @@ public class MainPageOfApplication
 		rechargePrepaidMobile.click();
 	}
 
+	public void clickRechargePrepaidPostpaidMobile()
+	{
+		rechargePrepaidMobile.click();
+	}
 }
